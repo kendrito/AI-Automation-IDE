@@ -21,6 +21,8 @@ Imagine an IDE that not only understands your code but also interacts with it in
 - **Fix Queue**: The AI loads up suggested "Fixes" into a queue. You get to review and apply these fixes manually, giving you control over changes to your codebase.
 - **Seamless Function Management**: Whether it's creating new functions, replacing existing ones, or deleting redundant code, the AI executes these operations flawlessly.
 
+![GUI](https://i.imgur.com/v9i67kE.png)
+
 ## 🚀 Usage
 
 - **Open the IDE**: Launch the application using the command above.
@@ -34,8 +36,8 @@ Imagine an IDE that not only understands your code but also interacts with it in
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/auto-ide.git
-    cd auto-ide
+    git clone https://github.com/kendrito/AI-Automation-IDE.git
+    cd AI-Automation-IDE
     ```
 
 2. **Install dependencies:**
@@ -71,6 +73,8 @@ We welcome contributions! Here’s how you can help:
 5. **Create a Pull Request**
 
 ## 📜 License
+
+Uses: MIT License
 
 Made by Kendrito
 
